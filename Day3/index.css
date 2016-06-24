@@ -1,0 +1,42 @@
+
+
+h1:hover {
+  background-color: yellow;
+  width: 350px;
+   padding: 20px;
+   border-color: green;
+   border-style: dashed;
+   border-width: 10px;
+
+
+
+}
+h2:hover {
+  background: red;
+  width:450px;
+  padding:20px;
+  border-top-color:green;
+  border-bottom-color: green;
+  border-top-style:dotted;
+  border-bottom-style: dotted;
+  border-top-width:5px;
+  border-bottom-width: 5px;
+
+}
+h3:hover {
+  background-color: orange;
+  width:550px;
+  color: white;
+  padding:30px;
+}
+h4:hover {
+  background-color: white;
+  width: 350px;
+  height:60px;
+   padding: 20px;
+   border-color: blue;
+   border-style: dashed;
+   border-width: 10px;
+
+
+}
