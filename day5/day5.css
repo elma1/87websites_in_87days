@@ -1,0 +1,19 @@
+body {
+  background-color: yellow;
+
+  border:5px solid black;
+
+
+}
+
+h1 {
+  background-color: orange;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top:40px;
+  padding-bottom: 40px;
+  border-bottom: 5px solid black;
+}
+form {
+  padding-left: 30px:
+}
