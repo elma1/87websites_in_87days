@@ -1,0 +1,16 @@
+body {
+  color: white;
+  background: url(img/flower.jpeg) no-repeat center center fixed;
+  text-align: center;
+}
+
+h1 {
+  background-color: orange;
+  width:350px;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  color: #810000;
+  text-indent: 25px;
+}
