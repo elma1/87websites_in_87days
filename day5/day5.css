@@ -1,9 +1,14 @@
 body {
   background-color: yellow;
-
   border:5px solid black;
+  background: url(img/image.jpeg) no-repeat;
+  padding-left: 40px;
+}
 
-
+.pictureContainer {
+width:200px;
+height:200px;
+overflow: hidden;
 }
 
 h1 {
